@@ -28,4 +28,4 @@ link to that README.
 - [Group project 2:](CS113-GroupProject02/README.md) Calculator which uses Infix/Postfix
 
 #### Final Project:
-- [Final Project 1:](CS113-FinalGroupProject/README.md) Built a route planning/map tool of MiraCosta using Djikstra's algorithm.
+- [Final Project:](CS113-FinalGroupProject/README.md) Built a route planning/map tool of MiraCosta using Djikstra's algorithm.

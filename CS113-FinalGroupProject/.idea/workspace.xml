@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd893f7c-9a1f-440f-be74-00cf19fd5163" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS113-FinalGroupProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CS113-FinalGroupProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Assets/BaseMapV1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Assets/BaseMapV1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Assets/BaseMapV1_691x606.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Assets/BaseMapV1_691x606.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Assets/BaseMapV1_717x629.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Assets/BaseMapV1_717x629.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Assets/Building List Options v1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Assets/Building List Options v1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Assets/option_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Assets/option_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/ProjectLayout/MCMapLayoutBW.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/doc/ProjectLayout/MCMapLayoutBW.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/ProjectLayout/MCMapLayoutColor.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/doc/ProjectLayout/MCMapLayoutColor.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/ProjectLayout/NodeCount.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/doc/ProjectLayout/NodeCount.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/ProjectLayout/Nodes&amp;Weights.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/doc/ProjectLayout/Nodes&amp;Weights.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Screenshots/GUIDesign_v1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Screenshots/GUIDesign_v1.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Screenshots/InitialProgramLayout.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Screenshots/InitialProgramLayout.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Screenshots/MainPanel.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Screenshots/MainPanel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Screenshots/MainPanelWithWorkingRouting.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Screenshots/MainPanelWithWorkingRouting.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/UML-Sequence/FinalGroupProject.xml" beforeDir="false" afterPath="$PROJECT_DIR$/doc/UML-Sequence/FinalGroupProject.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/UML-Sequence/FinalGroupProjectUMLv1.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/UML-Sequence/FinalGroupProjectUMLv1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/UML-Sequence/FinalGroupProjectUMLv2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/doc/UML-Sequence/FinalGroupProjectUMLv2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/UML-Sequence/FinalGroupProjectUMLv2.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/UML-Sequence/FinalGroupProjectUMLv2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/UML-Sequence/FinalGroupProjectUMLv3.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/UML-Sequence/FinalGroupProjectUMLv3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/UML-Sequence/Sequence Diagram.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/doc/UML-Sequence/Sequence Diagram.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/edu/miracosta/cs113/MapDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/edu/miracosta/cs113/MapDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/models/BlackBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/models/BlackBox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/models/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/models/Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/models/FileIO$Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/models/FileIO$Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/models/FileIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/models/FileIO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/models/Information.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/models/Information.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/models/PathList$PositionNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/models/PathList$PositionNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/models/PathList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/models/PathList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/ErrorPane$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/ErrorPane$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/ErrorPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/ErrorPane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/GetHours.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/GetHours.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/MainFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/MainFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/MainFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/MainFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/MainFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/MainFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/MainFrame$ImageJTextArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/MainFrame$ImageJTextArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/MainFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/PathPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS113-FinalGroupProject/view/PathPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/ErrorPane/johnCena.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/ErrorPane/johnCena.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/ErrorPane/rickroll.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/ErrorPane/rickroll.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/edu/miracosta/cs113/MapDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/images/Calculate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/images/Help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/images/LeftButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/images/NewResetButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/images/Reset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/images/RightButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/images/backgroundPicture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/images/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/images/map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/images/spartan-helmet-og.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/models/BlackBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/models/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/models/FileIO$Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/models/FileIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/models/Information.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/models/PathList$PositionNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/models/PathList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/savefiles/Matrix.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/savefiles/Matrix.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/savefiles/OceansideList.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/view/ErrorPane$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/view/ErrorPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/view/GetHours.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/view/MainFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/view/MainFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/view/MainFrame$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/view/MainFrame$ImageJTextArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/view/MainFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs113-fgp-graph-groupg/view/PathPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/CS113-FinalGroupProject/models/BlackBoxTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/CS113-FinalGroupProject/models/BlackBoxTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/CS113-FinalGroupProject/models/EdgeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/CS113-FinalGroupProject/models/EdgeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/CS113-FinalGroupProject/models/FileIOTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/CS113-FinalGroupProject/models/FileIOTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/CS113-FinalGroupProject/models/InformationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/CS113-FinalGroupProject/models/InformationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/CS113-FinalGroupProject/models/PathListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/CS113-FinalGroupProject/models/PathListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/CS113-FinalGroupProject/view/GetHoursTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/CS113-FinalGroupProject/view/GetHoursTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/cs113-fgp-graph-groupg/MatrixCorrupted.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/cs113-fgp-graph-groupg/MatrixCorrupted.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/cs113-fgp-graph-groupg/MatrixIllegalChars.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/cs113-fgp-graph-groupg/models/BlackBoxTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/cs113-fgp-graph-groupg/models/EdgeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/cs113-fgp-graph-groupg/models/FileIOTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/cs113-fgp-graph-groupg/models/InformationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/cs113-fgp-graph-groupg/models/PathListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/cs113-fgp-graph-groupg/view/GetHoursTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ErrorPane/rickroll.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ErrorPane/rickroll.GIF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ErrorPane/rickroll.wav" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ErrorPane/rickroll.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/Calculate.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/images/Calculate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/Help.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/images/Help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/LeftButton.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/images/LeftButton.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/NewResetButton.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/images/NewResetButton.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/Reset.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/images/Reset.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/RightButton.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/images/RightButton.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/images/background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/backgroundPicture.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/images/backgroundPicture.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/images/banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/map.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/images/map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/spartan-helmet-og.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/images/spartan-helmet-og.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/savefiles/Matrix.dat" beforeDir="false" afterPath="$PROJECT_DIR$/resources/savefiles/Matrix.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/savefiles/Matrix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/savefiles/Matrix.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/savefiles/OceansideList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/savefiles/OceansideList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/miracosta/cs113/MapDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/miracosta/cs113/MapDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/BlackBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/BlackBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/FileIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/FileIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Information.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Information.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/PathList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/PathList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/ErrorPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/ErrorPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/PathPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/PathPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResources/MatrixCorrupted.dat" beforeDir="false" afterPath="$PROJECT_DIR$/testResources/MatrixCorrupted.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResources/MatrixCorrupted.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testResources/MatrixCorrupted.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResources/MatrixIllegalChars.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testResources/MatrixIllegalChars.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/models/BlackBoxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/models/BlackBoxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/models/EdgeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/models/EdgeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/models/FileIOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/models/FileIOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/models/InformationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/models/InformationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/models/PathListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/models/PathListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/view/GetHoursTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/view/GetHoursTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e02LOyvACM7xPZRITGtGfG44wo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Driver" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.miracosta.cs113.MapDriver" />
+      <module name="CS113-FinalGroupProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd893f7c-9a1f-440f-be74-00cf19fd5163" name="Default Changelist" comment="" />
+      <created>1593444132384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593444132384</updated>
+      <workItem from="1593444137749" duration="271000" />
+      <workItem from="1593662707200" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593444183891">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state x="304" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.950@0.23.1680.950" timestamp="1593444183891" />
+    <state x="577" y="295" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1593444166172">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state x="577" y="295" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.950@0.23.1680.950" timestamp="1593444166172" />
+    <state width="1638" height="247" key="GridCell.Tab.0.bottom" timestamp="1593444408396">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state width="1638" height="247" key="GridCell.Tab.0.bottom/0.23.1680.950@0.23.1680.950" timestamp="1593444408396" />
+    <state width="1638" height="247" key="GridCell.Tab.0.center" timestamp="1593444408395">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state width="1638" height="247" key="GridCell.Tab.0.center/0.23.1680.950@0.23.1680.950" timestamp="1593444408395" />
+    <state width="1638" height="247" key="GridCell.Tab.0.left" timestamp="1593444408394">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state width="1638" height="247" key="GridCell.Tab.0.left/0.23.1680.950@0.23.1680.950" timestamp="1593444408394" />
+    <state width="1638" height="247" key="GridCell.Tab.0.right" timestamp="1593444408395">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state width="1638" height="247" key="GridCell.Tab.0.right/0.23.1680.950@0.23.1680.950" timestamp="1593444408395" />
+    <state x="537" y="397" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593444199484">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state x="537" y="397" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1680.950@0.23.1680.950" timestamp="1593444199484" />
+    <state x="383" y="134" key="new project wizard" timestamp="1593662743795">
+      <screen x="0" y="23" width="1920" height="980" />
+    </state>
+    <state x="383" y="134" key="new project wizard/-900.-123.900.1417/0.23.1920.980@0.23.1920.980" timestamp="1593662743795" />
+  </component>
+</project>

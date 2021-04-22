@@ -1,0 +1,26 @@
+Julian Beaulieu CS113 January 28. 2018
+
+Question 1: How often do you get a solution in fewer than 20 guesses?
+            Does this change depending on the theory you test (1, 2, 3)?
+
+At the beginning with the original file, I never got below 68.
+I was messing around with different kinds of brute force and I usually stayed
+below 360 tries which was still more than half as many times as some random try algorithms.
+Only when I started looking at the numbers as trees is when I realized how I need to set up
+my algorithm to constantly stay below 20. Though I am using reflection to make sure that
+I consistently stay under 20 tries (the reason and story behind reflection is in the file)
+the tries very seldomly go higher than 18. I never have seen the reflection method actually
+being used by the program.
+
+Question 2: What is good or bad about this strategy?
+
+What I like about this strategy is, that it really "reacts" to the theory.
+It never goes too linear in a was that you first increment one number then another
+but increment what you know is wrong and there for know, that it should be ruled out.
+As said previously I never get more then 19 tries, maybe I need to put it in a massive
+loop to see if it breaks, but since it has a pretty good fail safe, I am sure it will
+never be over 20 tries. The thing that I don't like is that it is still only reacting
+to what the method returns, but since there is no real logic behind a random generator,
+making a save file and making the program learn out of the mistakes is not a viable option
+tho that was my first idea before I asked you and looked at the code and saw that there is no
+real logic behind what theory is the one being used.

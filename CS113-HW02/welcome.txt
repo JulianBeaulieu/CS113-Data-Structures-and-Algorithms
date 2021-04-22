@@ -1,0 +1,5 @@
+Welcome!
+
+If you're reading this on your computer, you cloned the repository correctly!
+
+Make sure to pay attention to your Professor, the next instructions must be followed VERY CAREFULLY!
